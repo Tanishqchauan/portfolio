@@ -27,7 +27,7 @@ $(document).ready(function(){
     });
     var typed = new Typed(".typing-2",{
         strings: [
-            "YouTuber", "Developer", "Blogger",
+             "Developer", "Blogger",
             "Designer", "Freelancer"
         ],
         typeSpeed: 100,
